@@ -1,0 +1,4 @@
+vanilla-tilt.min.js — vanilla-tilt 1.8.1, MIT License, (c) 2017 Șandor Sergiu
+confetti.browser.js — canvas-confetti 1.9.3, ISC License, (c) Kiril Vatev
+world.svg — 由 Natural Earth 公共领域数据（world-atlas）生成
+物件图标 — 豆包 AI 生成，rembg 抠图
